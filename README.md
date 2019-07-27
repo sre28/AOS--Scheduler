@@ -1,1 +1,1 @@
-Credit based scheduler for Linux implementation
+Credit based scheduler for Linux - implementation
